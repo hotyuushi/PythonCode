@@ -11,5 +11,5 @@ def get_sum(*args):
         sum += i
     return sum
 
-sum = get_sum(1, 2, 3, 5, 6)
+sum = get_sum(1, 2, 3, 5, 6,7)
 print(sum)
